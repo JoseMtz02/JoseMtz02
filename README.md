@@ -108,10 +108,4 @@
 
 
 <br/>
-<summary><b>⚡ Contributions</b></summary>
-<br/>
-<p align="center">
-    <a href="https://github.com/JoseMtz02">
-        <img width="100%" src="https://github.com/JoseMtz02/metrics/blob/main/github-metrics.svg" alt="JoseMtz02">
-    </a>
-</p>
+
