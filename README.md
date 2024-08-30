@@ -1,71 +1,116 @@
-<h1 align="center"> 👋 Web Fullstack Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+Hi, I'm Jose Martinez!
+	<a href="https://github.com/JoseMartinez" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 <p align="center">
-  <a href="https://github.com/josemartinez"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack%20Developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+	<a href="https://github.com/JoseMartinez">
+		<img src="https://komarev.com/ghpvc/?username=josemartinez&label=Profile%20views&color=0e75b6&style=flat" alt="josemartinez" />
+	</a>
+	<a href="https://github.com/JoseMartinez">
+		<img src="https://img.shields.io/github/followers/josemartinez?label=Followers" alt="josemartinez" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/JoseMartinez">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Student;Full+Stack+Developer;Always+learning+new+technologies&center=true&width=380&height=45">
+	</a>
 </p>
 
-<p align='center'>
- <h1 align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-</h1>
+<hr>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=josemartinez" />
+<pre>
+💻 I am a passionate student and aspiring full stack developer
+📚 I am currently pursuing a degree in Software Development
+📝 I enjoy learning about new technologies and programming languages
+🔭 Working on improving my skills in web and mobile development
+🌱 Learning more about backend development and cloud services
+🌟 Main languages: JavaScript, TypeScript, Python
+🚩 Interested in front-end and back-end development opportunities
+🤔 I’m currently open for: <b>Internships</b> or <b>junior developer roles</b>
+</pre>
+<hr>
 
-<h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=josemartinez&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemartinez&layout=compact&theme=aura&langs_count=9" />
-<img height="150" />
+## 🤝 Connect with me
+<p align="center">
+	<a href="mailto:josemartinez@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/josemartinez/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/JoseMartinez"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-<br><br>
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="left" font-weight="bold">About me</h2>  
-<br><br>
+## 🛠️ My Favorite Tools
 
-- :I’m a developer with a passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full-stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+### 👨‍💻 Programming Languages
 
-<br>
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<table>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174937.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/angular-3-1175158.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175120.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-server-3-1175172.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/firebase-4-1175154.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/heroku-11-1175214.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/express-1-1175168.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/c-sharp-13-1175149.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/postman-3-1175148.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175187.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/sass-3-1175115.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/tailwindcss-1-1175184.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-4-1175194.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/angular-material-1175254.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/react-native-1175185.png" width="100"></td>
-  </tr>
-</table>
+<p>
+    <a href="https://github.com/JoseMartinez"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+</p>
+
+### 🧰 Frameworks and Libraries
+
+<p>
+    <a href="https://github.com/JoseMartinez"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="Express" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS%20-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="Material" src="https://img.shields.io/badge/Material%20-%230081CB.svg?logo=material-ui&logoColor=white"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+</p>
+
+### 🗄️ Databases and Cloud Hosting
+
+<p>
+    <a href="https://github.com/JoseMartinez"><img alt="SQL" src="https://img.shields.io/badge/SQL-%230077B5.svg?logo=postgresql&logoColor=white"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?logo=microsoft%20sql%20server&logoColor=white"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white"></a>
+</p>
+
+### 💻 Software and Tools
+
+<p>
+    <a href="https://github.com/JoseMartinez"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/JoseMartinez"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
+</p>
+
+<hr>
+
+## <a href="https://github.com/JoseMartinez"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+
 <br/>
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<summary><b>⚡ Jose's Stats</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/JoseMartinez">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=josemartinez&show_icons=true" alt="josemartinez">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=josemartinez" alt="josemartinez">
+	</a>
+	<br/>
+</p>
+<br/>
+<summary><b>⚡ Top Languages</b></summary>
+<br/>
 
 <p align="center">
- <div align="center" class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/josemartinez/">
-            <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-26-1175181.png?raw=true" alt="LinkedIn" width="40"/>
-        </a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/josemartinez">
-            <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-1175130.png?raw=true" alt="GitHub" width="40"/>
-        </a>
-        <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/josemartinez">
-            <img src="https://cdn.iconscout.com/icon/free/png-256/twitter-21-1175134.png?raw=true" alt="Twitter" width="40"/>
-        </a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/josemartinez/">
-            <img src="https://cdn.iconscout.com/icon/free/png-256/instagram-3-1175210.png?raw=true" alt="Instagram" width="40"/>
-        </a>
- </div>
+	<a href="https://github.com/JoseMartinez">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemartinez&langs_count=8&layout=compact" alt="josemartinez">
+	</a>
+	<br/>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+	<a href="https://github.com/JoseMartinez"><img src="https://github-profile-trophy.vercel.app/?username=josemartinez&column=7&theme=onedark" alt="josemartinez"></a>
 </p>
