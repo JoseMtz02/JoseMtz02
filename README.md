@@ -36,26 +36,26 @@
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174937.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/angular-3-1175158.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175120.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-server-3-1175172.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/firebase-4-1175154.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/heroku-11-1175214.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/express-1-1175168.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/c-sharp-13-1175149.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/postman-3-1175148.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175187.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/sass-3-1175115.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/tailwindcss-1-1175184.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-4-1175194.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/angular-material-1175254.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/react-native-1175185.png?raw=true" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174937.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/angular-3-1175158.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175120.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-server-3-1175172.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/firebase-4-1175154.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/heroku-11-1175214.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/express-1-1175168.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/c-sharp-13-1175149.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/postman-3-1175148.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175187.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/sass-3-1175115.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/tailwindcss-1-1175184.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-4-1175194.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/angular-material-1175254.png?raw=true" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/react-native-1175185.png?raw=true" width="100"></td>
   </tr>
 </table>
 <br/>
