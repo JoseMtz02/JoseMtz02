@@ -97,18 +97,6 @@
     </a>
     <br/>
 </p>
-<br/>
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
-<p align="center">
-    <a href="https://github.com/JoseMtz02">
-        <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMtz02&layout=compact&hide=html,css&theme=dark" alt="Top Languages">
-    </a>
-</p>
-
-
-
-
 
 
 <br/>
