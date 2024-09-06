@@ -58,6 +58,7 @@
     <a href="https://github.com/JoseMtz02"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
     <a href="https://github.com/JoseMtz02"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="https://github.com/JoseMtz02"><img alt="Express" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
+    <a href="https://github.com/JoseMtz02"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
     <a href="https://github.com/JoseMtz02"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
     <a href="https://github.com/JoseMtz02"><img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS%20-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
     <a href="https://github.com/JoseMtz02"><img alt="Material" src="https://img.shields.io/badge/Material%20-%230081CB.svg?logo=material-ui&logoColor=white"></a>
@@ -80,7 +81,6 @@
     <a href="https://github.com/JoseMtz02"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="https://github.com/JoseMtz02"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="https://github.com/JoseMtz02"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="https://github.com/JoseMtz02"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
 </p>
 
 <hr>
