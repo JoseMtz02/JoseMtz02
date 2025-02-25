@@ -64,8 +64,6 @@ fp
 
 <hr>
 
-## <a href="https://github.com/JoseMtz02"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
-
 <br/>
 <summary><b>⚡ Jose's Stats</b></summary>
 <br/>
