@@ -44,18 +44,7 @@
     <a href="https://github.com/JoseMtz02"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and Libraries
 
-<p>
-    <a href="https://github.com/JoseMtz02"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
-    <a href="https://github.com/JoseMtz02"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="https://github.com/JoseMtz02"><img alt="Express" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
-    <a href="https://github.com/JoseMtz02"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
-    <a href="https://github.com/JoseMtz02"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="https://github.com/JoseMtz02"><img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS%20-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
-    <a href="https://github.com/JoseMtz02"><img alt="Material" src="https://img.shields.io/badge/Material%20-%230081CB.svg?logo=material-ui&logoColor=white"></a>
-    <a href="https://github.com/JoseMtz02"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-</p>
 
 ### 🗄️ Databases and Cloud Hosting
 
