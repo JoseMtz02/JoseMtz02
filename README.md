@@ -21,16 +21,8 @@
 
 <hr>
 
-<pre>
 💻 I am a passionate student and aspiring full stack developer
-📚 I am currently pursuing a degree in Software Development
-📝 I enjoy learning about new technologies and programming languages
-🔭 Working on improving my skills in web and mobile development
-🌱 Learning more about backend development and cloud services
-🌟 Main languages: JavaScript, TypeScript, Python
-🚩 Interested in front-end and back-end development opportunities
-🤔 I’m currently open for: <b>Internships</b> or <b>junior developer roles</b>
-</pre>
+
 <hr>
 
 ## 🤝 Connect with me
