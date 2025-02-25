@@ -24,7 +24,7 @@
 💻 I am a passionate student and aspiring full stack developer
 
 <hr>
-
+fp
 ## 🤝 Connect with me
 <p align="center">
     <a href="mailto:joseagar89@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -39,9 +39,7 @@
 <p>
     <a href="https://github.com/JoseMtz02"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/JoseMtz02"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/JoseMtz02"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/JoseMtz02"><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"></a>
-    <a href="https://github.com/JoseMtz02"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
 </p>
 
 
