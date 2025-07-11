@@ -54,44 +54,39 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/C%23-90%25-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# 90%"/>
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 75%"/>
     <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-### 🎨 Frontend (90% de dominio)
-
-<p align="center">
-    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 90%"/>
-    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/Angular-90%25-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular 90%"/>
-    <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/Vue.js-90%25-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js 90%"/>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### ⚙️ Backend (Especialización en C# y .NET)
+### 🎨 Frontend
+
+<p align="center">
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### ⚙️ Backend
 
 <p align="center">
     <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/.NET-90%25-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 90%"/>
     <img src="https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET"/>
     <img src="https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core"/>
     <img src="https://img.shields.io/badge/Entity%20Framework-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework"/>
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-### 🗄️ Bases de Datos (90% de dominio)
+### 🗄️ Bases de Datos
 
 <p align="center">
     <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-90%25-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server 90%"/>
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-90%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB 90%"/>
     <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
@@ -123,51 +118,76 @@
 <div align="center">
     <table>
         <tr>
-            <td align="center" width="200">
+            <td align="center" width="150">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
                 <br><strong>C# (90%)</strong>
-                <br>Lenguaje principal
             </td>
-            <td align="center" width="200">
+            <td align="center" width="150">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
                 <br><strong>Python (75%)</strong>
-                <br>Análisis y scripting
             </td>
-            <td align="center" width="200">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
-                <br><strong>MongoDB (90%)</strong>
-                <br>Base de datos NoSQL
+            <td align="center" width="150">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+                <br><strong>TypeScript</strong>
+            </td>
+            <td align="center" width="150">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+                <br><strong>JavaScript</strong>
             </td>
         </tr>
         <tr>
-            <td align="center" width="200">
+            <td align="center" width="150">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
                 <br><strong>React (90%)</strong>
-                <br>Frontend moderno
             </td>
-            <td align="center" width="200">
+            <td align="center" width="150">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular"/>
                 <br><strong>Angular (90%)</strong>
-                <br>Framework enterprise
             </td>
-            <td align="center" width="200">
+            <td align="center" width="150">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/>
                 <br><strong>Vue.js (90%)</strong>
-                <br>Framework progresivo
+            </td>
+            <td align="center" width="150">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50" alt=".NET"/>
+                <br><strong>.NET</strong>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="150">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server"/>
+                <br><strong>SQL (90%)</strong>
+            </td>
+            <td align="center" width="150">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+                <br><strong>MongoDB (90%)</strong>
+            </td>
+            <td align="center" width="150">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+                <br><strong>Node.js</strong>
+            </td>
+            <td align="center" width="150">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" alt="Azure"/>
+                <br><strong>Azure</strong>
             </td>
         </tr>
     </table>
 </div>
 
+## 📊 Lenguajes Más Utilizados
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMtz02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Lenguajes%20Más%20Utilizados&card_width=400" alt="Lenguajes más utilizados"/>
+</div>
+
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseMtz02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMtz02&layout=compact&langs_count=8&theme=tokyonight" alt="Lenguajes más utilizados"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseMtz02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub"/>
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseMtz02&theme=tokyonight" alt="Racha de contribuciones"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseMtz02&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
 </div>
 
 ## 🏆 Trofeos de GitHub
@@ -194,12 +214,6 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,angular,vue,ts,js,mongodb,sqlserver,azure,git" alt="Tech Stack"/>
-</div>
-
-## 💡 Frase Motivacional
-
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase motivacional"/>
 </div>
 
 ---
