@@ -26,11 +26,10 @@
 
 ## 🚀 Sobre mí
 
-💻 Soy un desarrollador full stack especializado en **C#** y el ecosistema **.NET**, con amplia experiencia en frameworks de frontend modernos.
+💻 Soy un desarrollador full stack especializado en desarrollo web, con amplia experiencia en frameworks de frontend modernos.
 
 🎯 Mi fortaleza principal está en el desarrollo backend con **C#** y **SQL Server**, combinado con interfaces dinámicas usando **React**, **Angular** y **Vue.js**.
 
-📊 Experto en bases de datos tanto relacionales como NoSQL, con dominio avanzado en **SQL** y **MongoDB**.
 
 <hr>
 
