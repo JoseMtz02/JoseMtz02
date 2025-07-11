@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://github.com/JoseMtz02">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Estudiante+de+Desarrollo+de+Software;Desarrollador+Full+Stack;Aprendiendo+nuevas+tecnolog%C3%ADas+constantemente;Apasionado+por+la+innovaci%C3%B3n+tecnol%C3%B3gica">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Especialista+en+C%23+y+.NET;Experto+en+Frontend+con+React%2C+Angular%2C+Vue;Apasionado+por+la+innovaci%C3%B3n+tecnol%C3%B3gica">
     </a>
 </p>
 
@@ -26,11 +26,11 @@
 
 ## 🚀 Sobre mí
 
-💻 Soy un estudiante apasionado y aspirante a desarrollador full stack con enfoque en crear soluciones innovadoras y eficientes.
+💻 Soy un desarrollador full stack especializado en **C#** y el ecosistema **.NET**, con amplia experiencia en frameworks de frontend modernos.
 
-📚 Constantemente aprendiendo nuevas tecnologías y metodologías de desarrollo.
+🎯 Mi fortaleza principal está en el desarrollo backend con **C#** y **SQL Server**, combinado con interfaces dinámicas usando **React**, **Angular** y **Vue.js**.
 
-🎯 Mi objetivo es contribuir al desarrollo de software que impacte positivamente en la vida de las personas.
+📊 Experto en bases de datos tanto relacionales como NoSQL, con dominio avanzado en **SQL** y **MongoDB**.
 
 <hr>
 
@@ -53,48 +53,54 @@
 ### 👨‍💻 Lenguajes de Programación
 
 <p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/C%23-90%25-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# 90%"/>
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 75%"/>
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend (90% de dominio)
 
 <p align="center">
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 90%"/>
+    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Angular-90%25-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular 90%"/>
+    <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Vue.js-90%25-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js 90%"/>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-    <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend (Especialización en C# y .NET)
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
     <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/.NET-90%25-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 90%"/>
     <img src="https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET"/>
+    <img src="https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core"/>
+    <img src="https://img.shields.io/badge/Entity%20Framework-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework"/>
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
-### 🗄️ Bases de Datos y Cloud
+### 🗄️ Bases de Datos (90% de dominio)
 
 <p align="center">
-    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-90%25-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server 90%"/>
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/Firebase-%23FF6F00.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-90%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB 90%"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 ### ☁️ Cloud y Hosting
 
 <p align="center">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
     <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+    <img src="https://img.shields.io/badge/Firebase-%23FF6F00.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
     <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
@@ -102,22 +108,56 @@
 ### 🔧 Herramientas y Software
 
 <p align="center">
+    <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
-### 📱 Desarrollo Móvil
-
-<p align="center">
-    <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-    <img src="https://img.shields.io/badge/Xamarin-%233498DB.svg?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin"/>
+    <img src="https://img.shields.io/badge/SSMS-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server Management Studio"/>
 </p>
 
 <hr>
+
+## 💪 Mis Fortalezas Técnicas
+
+<div align="center">
+    <table>
+        <tr>
+            <td align="center" width="200">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
+                <br><strong>C# (90%)</strong>
+                <br>Lenguaje principal
+            </td>
+            <td align="center" width="200">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+                <br><strong>Python (75%)</strong>
+                <br>Análisis y scripting
+            </td>
+            <td align="center" width="200">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+                <br><strong>MongoDB (90%)</strong>
+                <br>Base de datos NoSQL
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="200">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+                <br><strong>React (90%)</strong>
+                <br>Frontend moderno
+            </td>
+            <td align="center" width="200">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular"/>
+                <br><strong>Angular (90%)</strong>
+                <br>Framework enterprise
+            </td>
+            <td align="center" width="200">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/>
+                <br><strong>Vue.js (90%)</strong>
+                <br>Framework progresivo
+            </td>
+        </tr>
+    </table>
+</div>
 
 ## 📊 Estadísticas de GitHub
 
@@ -144,10 +184,17 @@
 
 ## 🎯 Objetivos Actuales
 
-- 🌱 Perfeccionando mis habilidades en **React** y **Node.js**
-- 🚀 Aprendiendo arquitecturas de **microservicios** y **cloud computing**
-- 📚 Explorando **inteligencia artificial** y **machine learning**
-- 🔧 Desarrollando proyectos con **metodologías ágiles**
+- 🔧 Perfeccionando arquitecturas avanzadas con **C#** y **.NET Core**
+- 🚀 Especializándome en **microservicios** y **APIs RESTful**
+- 📊 Optimizando consultas complejas en **SQL Server** y **MongoDB**
+- 🎨 Creando SPAs avanzadas con **React**, **Angular** y **Vue.js**
+- ☁️ Implementando soluciones en **Azure** y **cloud computing**
+
+## 🏗️ Stack Tecnológico Principal
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,angular,vue,ts,js,mongodb,sqlserver,azure,git" alt="Tech Stack"/>
+</div>
 
 ## 💡 Frase Motivacional
 
@@ -159,5 +206,5 @@
 
 <div align="center">
     <h3>⭐ Si te gustó mi perfil, ¡no olvides darle una estrella a mis repositorios! ⭐</h3>
-    <p>💬 Siempre abierto a colaborar en proyectos interesantes</p>
+    <p>💬 Especializado en C# y .NET - Siempre abierto a colaborar en proyectos interesantes</p>
 </div>
