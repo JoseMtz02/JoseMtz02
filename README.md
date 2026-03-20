@@ -1,93 +1,85 @@
-<h1 align="center">
-    ¡Hola, soy José!
-</h1>
-
-<p align="center">
-    <a href="https://github.com/JoseMtz02">
-        <img src="https://komarev.com/ghpvc/?username=JoseMtz02&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="JoseMtz02" />
-    </a>
-    <a href="https://github.com/JoseMtz02">
-        <img src="https://img.shields.io/github/followers/JoseMtz02?label=Seguidores" alt="JoseMtz02" />
-    </a>
-</p>
-
-<br/>
-
-<p align="center">
-    <a href="https://github.com/JoseMtz02">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Desarrollador+Backend+y+Frontend;Especialista+en+.NET+y+C%23;Experiencia+con+Angular+y+React;Arquitectura+y+Desarrollo+Web">
-    </a>
-</p>
-
-<hr>
-
-## Sobre mí
-
-Soy un Desarrollador de Software enfocado en la creación de soluciones web robustas y escalables. Cuento con experiencia práctica tanto en el desarrollo de arquitecturas del lado del servidor (Backend) como en la creación de interfaces de usuario interactivas (Frontend). Busco integrarme a equipos de alto rendimiento donde pueda aportar valor técnico, resolver problemas complejos y continuar mi desarrollo profesional.
-
-- Enfoque actual: Arquitectura Backend con .NET / Node.js y desarrollo Frontend con Angular / React.
-- Formación: Ingeniería en Desarrollo de Software Multiplataforma.
-- Competencias clave: Diseño de bases de datos, creación de APIs REST, desarrollo de aplicaciones SPA y adaptabilidad tecnológica.
-
-<hr>
-
-## Experiencia y Proyectos Destacados
-
-| Rol / Proyecto | Tecnologías | Descripción |
-| :--- | :--- | :--- |
-| **Desarrollador Web** <br> *Ozelot Technologies* | `.NET` `SQL Server` | **Backend:** Desarrollo en entornos productivos, administración, modelado y optimización de bases de datos relacionales. Creación de documentación técnica detallada. |
-| **Desarrollador Web** <br> *Dapper Technologies* | `Angular` `Node.js` `MongoDB` `Tailwind` | **Full Stack:** Construcción de un panel de control corporativo. Integración de servicios backend (Node.js/MongoDB) con interfaces dinámicas para el usuario final (Angular/Tailwind). |
-| **Sistema de Gestión Veterinaria** <br> *Freelance* | `.NET` `Angular` | **Full Stack:** Arquitectura y desarrollo integral de un sistema de gestión administrativo. Diseño de API REST en .NET y consumo en panel Angular. |
-| **Sistema de Post Ventas** | `C#` `React` `SQL Server` `TS` | **Full Stack:** Desarrollo de módulos de inventario, ventas y control de caja, asegurando la integridad de los datos en el servidor y una experiencia de usuario fluida en el cliente. |
-
-<hr>
-
-## Stack Tecnológico
-
-### Desarrollo Backend y Bases de Datos
-<p align="left">
-    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-### Desarrollo Frontend y Diseño Web
-<p align="left">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-</p>
-
-### Herramientas y Despliegue
-<p align="left">
-    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-</p>
-
-<hr>
-
-## Certificaciones
-- Angular: Cero a Experto
-- C#: Curso Práctico
-- Git: Curso Profesional
-
-<hr>
-
-## Estadísticas de GitHub
-
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseMtz02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseMtz02&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
+    <h1>José Martínez</h1>
+    <h3>Ingeniero en Desarrollo de Software Multiplataforma</h3>
+    <p>Especialista en Arquitectura Backend (.NET) y Desarrollo Frontend (Angular/React)</p>
+    <br>
+    <a href="https://www.linkedin.com/in/jos%C3%A9-mois%C3%A9s-mart%C3%ADnez-lara-01148b2b4/">LinkedIn</a>
+    <span> | </span>
+    <a href="mailto:joseagar89@gmail.com">Contacto Directo</a>
 </div>
 
 ---
 
+## Perfil Profesional
+
+Desarrollador Full Stack enfocado en la creación de soluciones web robustas, seguras y escalables. Destaco por mi capacidad para traducir requerimientos de negocio complejos en arquitecturas técnicas eficientes, abarcando desde el modelado de bases de datos hasta la implementación de interfaces de usuario de alto rendimiento.
+
+**Competencias Core:**
+* **Backend:** Diseño de APIs RESTful, microservicios, seguridad y optimización de consultas SQL.
+* **Frontend:** Desarrollo de Single Page Applications (SPAs), gestión de estado y diseño responsivo.
+* **Ingeniería:** Patrones de diseño, metodologías ágiles, resolución de problemas algorítmicos y trabajo colaborativo.
+
+---
+
+## Experiencia y Proyectos Arquitectónicos
+
+### Desarrollo y Lógica de Negocio (Backend & Full Stack)
+
+* **Plataforma de Gestión de Tickets Corporativos (En Desarrollo)**
+    Diseño de un sistema integral para la gestión de incidencias orientado a empresas de desarrollo. Implementación de una arquitectura que garantiza la trazabilidad, asignación eficiente y seguimiento de métricas operativas.
+* **Módulos de Generación de Referencias de Pago**
+    Integración de lógica de negocio para sistemas institucionales, desarrollando flujos seguros para la emisión y validación de referencias bancarias en procesos de extensiones de colegiaturas.
+* **Sistema de Gestión Veterinaria**
+    Construcción de una plataforma administrativa de extremo a extremo. Creación del núcleo backend con .NET para el procesamiento de datos clínicos y consumo eficiente a través de un panel desarrollado en Angular.
+* **Sistema de Inventario y Post Ventas**
+    Desarrollo de una solución para el control de inventarios y flujo de caja, utilizando C#, React y SQL Server, garantizando la integridad transaccional de los datos comerciales.
+
+### Interfaces y Experiencia de Usuario (Frontend)
+
+* **Panel de Control - Organización MERM (Dapper Technologies)**
+    Colaboración en equipo para desarrollar una plataforma de gestión utilizando Angular y Tailwind CSS, priorizando la usabilidad y los tiempos de carga, consumiendo servicios desde un entorno Node.js/MongoDB.
+
+---
+
+## Stack Tecnológico
+
 <div align="center">
-    <h3> Si mi perfil técnico se alinea con los requerimientos de su equipo, los invito a explorar mis repositorios. </h3>
-    <p> Abierto a oportunidades formales y colaboraciones en proyectos de desarrollo de software. </p>
+    <table>
+        <tr>
+            <td align="center" width="250">
+                <b>Backend & Bases de Datos</b><br><br>
+                C# | .NET Core<br>
+                Node.js<br>
+                SQL Server | MongoDB
+            </td>
+            <td align="center" width="250">
+                <b>Frontend & UI</b><br><br>
+                Angular | React<br>
+                TypeScript | JavaScript<br>
+                Tailwind CSS
+            </td>
+            <td align="center" width="250">
+                <b>Herramientas & Despliegue</b><br><br>
+                Git | GitHub<br>
+                Docker<br>
+                Postman
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+## Educación y Certificaciones Continua
+
+* **Ingeniería en Desarrollo de Software Multiplataforma** - (Finalización proyectada: Julio 2026)
+* **Certificaciones Técnicas:**
+    * Angular: Cero a Experto (2026)
+    * Git: Curso Profesional (2025)
+    * C#: Curso Práctico (2025)
+
+---
+
+<div align="center">
+    <p><i>Si mi perfil se alinea con los desafíos tecnológicos de su organización, lo invito a revisar el código fuente de mis repositorios destacados.</i></p>
 </div>
