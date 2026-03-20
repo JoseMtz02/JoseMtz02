@@ -1,85 +1,84 @@
 <div align="center">
-    <h1>José Martínez</h1>
-    <h3>Ingeniero en Desarrollo de Software Multiplataforma</h3>
-    <p>Especialista en Arquitectura Backend (.NET) y Desarrollo Frontend (Angular/React)</p>
-    <br>
-    <a href="https://www.linkedin.com/in/jos%C3%A9-mois%C3%A9s-mart%C3%ADnez-lara-01148b2b4/">LinkedIn</a>
-    <span> | </span>
-    <a href="mailto:joseagar89@gmail.com">Contacto Directo</a>
+
+# José Martínez
+### Full Stack Engineer — .NET (Backend) + Angular/React (Frontend)
+**Construyo soluciones web en producción: APIs seguras, UI enfocada en UX y sistemas mantenibles.**
+
+<a href="https://www.linkedin.com/in/jos%C3%A9-mois%C3%A9s-mart%C3%ADnez-lara-01148b2b4/" target="_blank">LinkedIn</a>
+<span> · </span>
+<a href="mailto:joseagar89@gmail.com">joseagar89@gmail.com</a>
+<span> · </span>
+<a href="https://github.com/JoseMtz02" target="_blank">GitHub</a>
+
+<br/><br/>
+
+<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br/><br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=JoseMtz02&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMtz02&layout=compact&hide_border=true" />
+
 </div>
 
 ---
 
-## Perfil Profesional
+## Perfil (para reclutadores)
+Full Stack Engineer con foco en **arquitectura backend (.NET)** y **frontends modernos (Angular/React)**. Me especializo en llevar requerimientos a soluciones reales: **APIs + UI + datos**, cuidando seguridad, performance, mantenibilidad y experiencia de usuario.
 
-Desarrollador Full Stack enfocado en la creación de soluciones web robustas, seguras y escalables. Destaco por mi capacidad para traducir requerimientos de negocio complejos en arquitecturas técnicas eficientes, abarcando desde el modelado de bases de datos hasta la implementación de interfaces de usuario de alto rendimiento.
+**Fortalezas:**
+- **Backend:** APIs REST, modelado, reglas de negocio, seguridad (auth/roles), optimización SQL.
+- **Frontend:** SPAs, diseño responsivo, componentes reutilizables, estados de carga/errores claros.
+- **UX / Producto:** interfaces predecibles, jerarquía visual, accesibilidad básica y flujos sin fricción.
 
-**Competencias Core:**
-* **Backend:** Diseño de APIs RESTful, microservicios, seguridad y optimización de consultas SQL.
-* **Frontend:** Desarrollo de Single Page Applications (SPAs), gestión de estado y diseño responsivo.
-* **Ingeniería:** Patrones de diseño, metodologías ágiles, resolución de problemas algorítmicos y trabajo colaborativo.
-
----
-
-## Experiencia y Proyectos Arquitectónicos
-
-### Desarrollo y Lógica de Negocio (Backend & Full Stack)
-
-* **Plataforma de Gestión de Tickets Corporativos (En Desarrollo)**
-    Diseño de un sistema integral para la gestión de incidencias orientado a empresas de desarrollo. Implementación de una arquitectura que garantiza la trazabilidad, asignación eficiente y seguimiento de métricas operativas.
-* **Módulos de Generación de Referencias de Pago**
-    Integración de lógica de negocio para sistemas institucionales, desarrollando flujos seguros para la emisión y validación de referencias bancarias en procesos de extensiones de colegiaturas.
-* **Sistema de Gestión Veterinaria**
-    Construcción de una plataforma administrativa de extremo a extremo. Creación del núcleo backend con .NET para el procesamiento de datos clínicos y consumo eficiente a través de un panel desarrollado en Angular.
-* **Sistema de Inventario y Post Ventas**
-    Desarrollo de una solución para el control de inventarios y flujo de caja, utilizando C#, React y SQL Server, garantizando la integridad transaccional de los datos comerciales.
-
-### Interfaces y Experiencia de Usuario (Frontend)
-
-* **Panel de Control - Organización MERM (Dapper Technologies)**
-    Colaboración en equipo para desarrollar una plataforma de gestión utilizando Angular y Tailwind CSS, priorizando la usabilidad y los tiempos de carga, consumiendo servicios desde un entorno Node.js/MongoDB.
+> Nota: varios proyectos son privados, pero tengo trabajo verificable en sitios en producción (abajo).
 
 ---
 
-## Stack Tecnológico
+## Proyectos en producción (trabajo verificable)
+> En cada uno: “qué era” + “mi contribución”. Si quieres, lo hacemos aún más fuerte con bullets técnicos por proyecto.
 
-<div align="center">
-    <table>
-        <tr>
-            <td align="center" width="250">
-                <b>Backend & Bases de Datos</b><br><br>
-                C# | .NET Core<br>
-                Node.js<br>
-                SQL Server | MongoDB
-            </td>
-            <td align="center" width="250">
-                <b>Frontend & UI</b><br><br>
-                Angular | React<br>
-                TypeScript | JavaScript<br>
-                Tailwind CSS
-            </td>
-            <td align="center" width="250">
-                <b>Herramientas & Despliegue</b><br><br>
-                Git | GitHub<br>
-                Docker<br>
-                Postman
-            </td>
-        </tr>
-    </table>
-</div>
+### MERM X — Sitio / plataforma
+**URL:** https://mermx.org/Inicio  
+**Participación:** desarrollo frontend (UI/maquetación) e integración con flujo de navegación y secciones.  
+**Enfoque UX:** estructura de contenido clara, consistencia visual, diseño responsivo y performance percibida.
 
 ---
 
-## Educación y Certificaciones Continua
-
-* **Ingeniería en Desarrollo de Software Multiplataforma** - (Finalización proyectada: Julio 2026)
-* **Certificaciones Técnicas:**
-    * Angular: Cero a Experto (2026)
-    * Git: Curso Profesional (2025)
-    * C#: Curso Práctico (2025)
+### Sonora Global — Sitio institucional
+**URL:** https://sonoraglobal.org/  
+**Participación:** apoyo en desarrollo web (UI + ajustes de experiencia), estructura y secciones orientadas a comunicación.  
+**Enfoque UX:** legibilidad, jerarquía tipográfica, llamadas a la acción (CTAs) y navegación simple.
 
 ---
 
-<div align="center">
-    <p><i>Si mi perfil se alinea con los desafíos tecnológicos de su organización, lo invito a revisar el código fuente de mis repositorios destacados.</i></p>
-</div>
+### Landing de videojuego
+**URL:** https://sistemaventa.website/  
+**Participación:** construcción de landing con enfoque en conversión (secciones, narrativa, layout, responsive).  
+**Enfoque UX:** scroll fluido, estructura “beneficio → evidencia → CTA”, consistencia de estilos.
+
+---
+
+## Stack
+**Backend:** C#, .NET / ASP.NET Core, REST, arquitectura limpia (capas), validaciones, SQL Server  
+**Frontend:** Angular, React, TypeScript/JavaScript, Tailwind CSS  
+**Datos:** SQL Server, MongoDB  
+**Herramientas:** Git/GitHub, Docker, Postman
+
+---
+
+## En progreso
+- Ingeniería en Desarrollo de Software Multiplataforma (**finalización estimada: Julio 2026**)
+- Certificaciones: Angular (2026), Git (2025), C# (2025)
+
+---
+
+## Contacto
+- LinkedIn: https://www.linkedin.com/in/jos%C3%A9-mois%C3%A9s-mart%C3%ADnez-lara-01148b2b4/
+- Email: joseagar89@gmail.com
