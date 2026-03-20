@@ -77,4 +77,5 @@ Full Stack Engineer con foco en **arquitectura backend (.NET)** y **frontends mo
 
 ## Contacto
 - LinkedIn: https://www.linkedin.com/in/jos%C3%A9-mois%C3%A9s-mart%C3%ADnez-lara-01148b2b4/
-- Email: joseagar89@gmail.com
+- Email: j.moises.mtzl@gmail.com
+
