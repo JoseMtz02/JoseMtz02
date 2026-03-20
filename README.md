@@ -1,8 +1,5 @@
 <h1 align="center">
     ¡Hola, soy José Martínez!
-    <a href="https://github.com/JoseMtz02" target="_self">
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-    </a>
 </h1>
 
 <p align="center">
@@ -24,14 +21,14 @@
 
 <hr>
 
-## 🚀 Sobre mí
+##  Sobre mí
 
-💻 Soy un desarrollador full stack especializado en desarrollo web, con amplia experiencia en frameworks de frontend modernos.
+Soy un desarrollador full stack especializado en desarrollo web, con amplia experiencia en frameworks de frontend modernos.
 
 
 <hr>
 
-## 🤝 Conecta conmigo
+##  Conecta conmigo
 
 <p align="center">
     <a href="mailto:joseagar89@gmail.com">
@@ -45,9 +42,9 @@
     </a>
 </p>
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
-### 👨‍💻 Lenguajes de Programación
+###  Lenguajes de Programación
 
 <p align="center">
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
@@ -58,7 +55,7 @@
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### 🎨 Frontend
+###  Frontend
 
 <p align="center">
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
@@ -68,7 +65,7 @@
     <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
-### ⚙️ Backend
+###  Backend
 
 <p align="center">
     <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
@@ -79,7 +76,7 @@
     <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-### 🗄️ Bases de Datos
+###  Bases de Datos
 
 <p align="center">
     <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
@@ -88,7 +85,7 @@
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-### ☁️ Cloud y Hosting
+###  Cloud y Hosting
 
 <p align="center">
     <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
@@ -97,7 +94,7 @@
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
-### 🔧 Herramientas y Software
+###  Herramientas y Software
 
 <p align="center">
     <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
@@ -110,7 +107,7 @@
 
 <hr>
 
-## 💪 Mis Fortalezas Técnicas
+##  Mis Fortalezas Técnicas
 
 <div align="center">
     <table>
@@ -171,13 +168,13 @@
     </table>
 </div>
 
-## 📊 Lenguajes Más Utilizados
+##  Lenguajes Más Utilizados
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMtz02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Lenguajes%20Más%20Utilizados&card_width=400" alt="Lenguajes más utilizados"/>
 </div>
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseMtz02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub"/>
@@ -187,7 +184,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseMtz02&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
 </div>
 
-## 🏆 Trofeos de GitHub
+##  Trofeos de GitHub
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=JoseMtz02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos"/>
@@ -199,15 +196,15 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseMtz02&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de contribuciones"/>
 </div>
 
-## 🎯 Objetivos Actuales
+##  Objetivos Actuales
 
-- 🔧 Perfeccionando arquitecturas avanzadas con **C#** y **.NET Core**
-- 🚀 Especializándome en **microservicios** y **APIs RESTful**
-- 📊 Optimizando consultas complejas en **SQL Server** y **MongoDB**
-- 🎨 Creando SPAs avanzadas con **React**, **Angular** y **Vue.js**
-- ☁️ Implementando soluciones en **Azure** y **cloud computing**
+-  Perfeccionando arquitecturas avanzadas con **C#** y **.NET Core**
+-  Especializándome en **microservicios** y **APIs RESTful**
+-  Optimizando consultas complejas en **SQL Server** y **MongoDB**
+-  Creando SPAs avanzadas con **React**, **Angular** y **Vue.js**
+-  Implementando soluciones en **Azure** y **cloud computing**
 
-## 🏗️ Stack Tecnológico Principal
+##  Stack Tecnológico Principal
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,angular,vue,ts,js,mongodb,sqlserver,azure,git" alt="Tech Stack"/>
@@ -216,6 +213,6 @@
 ---
 
 <div align="center">
-    <h3>⭐ Si te gustó mi perfil, ¡no olvides darle una estrella a mis repositorios! ⭐</h3>
-    <p>💬 Especializado en C# y .NET - Siempre abierto a colaborar en proyectos interesantes</p>
+    <h3> Si te gustó mi perfil, ¡no olvides darle una estrella a mis repositorios! </h3>
+    <p> Especializado en C# y .NET - Siempre abierto a colaborar en proyectos interesantes</p>
 </div>
