@@ -6,8 +6,6 @@
 
 <a href="https://www.linkedin.com/in/jos%C3%A9-mois%C3%A9s-mart%C3%ADnez-lara-01148b2b4/" target="_blank">LinkedIn</a>
 <span> · </span>
-<a href="mailto:joseagar89@gmail.com">joseagar89@gmail.com</a>
-<span> · </span>
 <a href="https://github.com/JoseMtz02" target="_blank">GitHub</a>
 
 <br/><br/>
