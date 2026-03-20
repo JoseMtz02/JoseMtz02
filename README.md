@@ -81,18 +81,8 @@ Soy un Desarrollador de Software enfocado en la creación de soluciones web robu
 ## Estadísticas de GitHub
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMtz02&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Lenguajes%20M%C3%A1s%20Utilizados&card_width=400" alt="Lenguajes más utilizados"/>
-</div>
-<br>
-<div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseMtz02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseMtz02&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
-</div>
-
-<br>
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseMtz02&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de contribuciones"/>
 </div>
 
 ---
