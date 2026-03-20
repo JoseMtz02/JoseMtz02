@@ -190,7 +190,7 @@ Soy un desarrollador full stack especializado en desarrollo web, con amplia expe
     <img src="https://github-profile-trophy.vercel.app/?username=JoseMtz02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos"/>
 </div>
 
-## 📈 Gráfico de Contribuciones
+##  Gráfico de Contribuciones
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseMtz02&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de contribuciones"/>
