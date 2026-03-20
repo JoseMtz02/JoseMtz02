@@ -29,7 +29,7 @@
 
 ---
 
-## Perfil (para reclutadores)
+## Perfil 
 Full Stack Engineer con foco en **arquitectura backend (.NET)** y **frontends modernos (Angular/React)**. Me especializo en llevar requerimientos a soluciones reales: **APIs + UI + datos**, cuidando seguridad, performance, mantenibilidad y experiencia de usuario.
 
 **Fortalezas:**
@@ -37,12 +37,10 @@ Full Stack Engineer con foco en **arquitectura backend (.NET)** y **frontends mo
 - **Frontend:** SPAs, diseño responsivo, componentes reutilizables, estados de carga/errores claros.
 - **UX / Producto:** interfaces predecibles, jerarquía visual, accesibilidad básica y flujos sin fricción.
 
-> Nota: varios proyectos son privados, pero tengo trabajo verificable en sitios en producción (abajo).
 
 ---
 
-## Proyectos en producción (trabajo verificable)
-> En cada uno: “qué era” + “mi contribución”. Si quieres, lo hacemos aún más fuerte con bullets técnicos por proyecto.
+## Proyectos en producción 
 
 ### MERM X — Sitio / plataforma
 **URL:** https://mermx.org/Inicio  
@@ -51,7 +49,7 @@ Full Stack Engineer con foco en **arquitectura backend (.NET)** y **frontends mo
 
 ---
 
-### Sonora Global — Sitio institucional
+### Sonora Global 
 **URL:** https://sonoraglobal.org/  
 **Participación:** apoyo en desarrollo web (UI + ajustes de experiencia), estructura y secciones orientadas a comunicación.  
 **Enfoque UX:** legibilidad, jerarquía tipográfica, llamadas a la acción (CTAs) y navegación simple.
@@ -73,8 +71,8 @@ Full Stack Engineer con foco en **arquitectura backend (.NET)** y **frontends mo
 
 ---
 
-## En progreso
-- Ingeniería en Desarrollo de Software Multiplataforma (**finalización estimada: Julio 2026**)
+## Certificaciones
+- Ingeniería en Desarrollo de Software Multiplataforma 
 - Certificaciones: Angular (2026), Git (2025), C# (2025)
 
 ---
