@@ -46,70 +46,38 @@ He construido puntos de venta (POS), plataformas de gestión institucional y sol
 
 ## Estadísticas de desarrollo
 
-<!--
-Nota importante:
-- Algunas tarjetas (stats) dependen de servicios externos y GitHub puede bloquearlas temporalmente.
-- Por eso añadimos "Activity Graph" y "Streak" como alternativas visuales (a veces se proxy-fican mejor por CAMO).
--->
-
 <div align="center">
 
-<!-- Streak (normalmente muy estable) -->
 <a href="https://github.com/JoseMtz02" target="_blank" rel="noopener noreferrer">
   <img
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=JoseMtz02&theme=tokyonight&hide_border=true"
+    alt="Resumen de perfil de GitHub"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseMtz02&theme=github_dark"
   />
 </a>
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<a href="https://github.com/JoseMtz02" target="_blank" rel="noopener noreferrer">
-  <img
-    alt="Actividad de Contribución"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JoseMtz02&theme=tokyo-night&hide_border=true"
-  />
-</a>
-
-<br/><br/>
-
-<!-- Stats + Top Langs -->
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://github.com/JoseMtz02" target="_blank" rel="noopener noreferrer">
-        <img
-          alt="Estadísticas de GitHub"
-          src="https://github-readme-stats.vercel.app/api?username=JoseMtz02&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-        />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/JoseMtz02" target="_blank" rel="noopener noreferrer">
-        <img
-          alt="Lenguajes principales"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMtz02&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/JoseMtz02" target="_blank" rel="noopener noreferrer">
+    <img
+      alt="Repositorios por lenguaje"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseMtz02&theme=github_dark"
+    />
+  </a>
+  <a href="https://github.com/JoseMtz02" target="_blank" rel="noopener noreferrer">
+    <img
+      alt="Lenguaje con más commits"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseMtz02&theme=github_dark"
+    />
+  </a>
+</p>
 
 <br/>
 
-<!-- Fallback visual (si GitHub bloquea imágenes externas temporalmente) -->
 <p align="center">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Full-Stack" src="https://img.shields.io/badge/Full--Stack-0A66C2?style=flat-square" />
-  <img alt="Backend + Frontend" src="https://img.shields.io/badge/Backend%20%2B%20Frontend-111827?style=flat-square" />
-</p>
-
-<p align="center">
-  <sub>
-    Si alguna tarjeta no se renderiza, GitHub puede estar bloqueando imágenes externas temporalmente.
-    Recarga la página o intenta más tarde.
-  </sub>
+  <img alt="Seguidores" src="https://img.shields.io/github/followers/JoseMtz02?style=for-the-badge&logo=github&label=Seguidores" />
+  <img alt="Último commit" src="https://img.shields.io/github/last-commit/JoseMtz02/JoseMtz02?style=for-the-badge&logo=github&label=Ultimo%20commit" />
+  <img alt="Actividad mensual" src="https://img.shields.io/github/commit-activity/m/JoseMtz02/JoseMtz02?style=for-the-badge&label=Actividad%20mensual" />
 </p>
 
 </div>
