@@ -1,12 +1,20 @@
 <div align="center">
 
 # José Martínez
-### Full Stack Engineer — .NET (Backend) + Angular/React (Frontend)
-**Construyo soluciones web en producción: APIs seguras, UI enfocada en UX y sistemas mantenibles.**
+### Full-Stack Developer • Software Engineer
+**Construyo soluciones full-stack estables, escalables y fáciles de mantener: desde la arquitectura técnica hasta la experiencia de usuario.**
 
-<a href="https://www.linkedin.com/in/jos%C3%A9-mois%C3%A9s-mart%C3%ADnez-lara-01148b2b4/" target="_blank">LinkedIn</a>
-<span> · </span>
-<a href="https://github.com/JoseMtz02" target="_blank">GitHub</a>
+<br/>
+
+<a href="https://portfolio-jm.vercel.app/" target="_blank">
+  <img alt="Portafolio" src="https://img.shields.io/badge/Web_Personal-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jos%C3%A9-mois%C3%A9s-mart%C3%ADnez-lara-01148b2b4/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:j.moises.mtzl@gmail.com" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br/><br/>
 
@@ -14,68 +22,70 @@
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-<br/><br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JoseMtz02&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMtz02&layout=compact&hide_border=true" />
 
 </div>
 
 ---
 
-## Perfil 
-Full Stack Engineer con foco en **arquitectura backend (.NET)** y **frontends modernos (Angular/React)**. Me especializo en llevar requerimientos a soluciones reales: **APIs + UI + datos**, cuidando seguridad, performance, mantenibilidad y experiencia de usuario.
+## Perfil Profesional
+Me involucro de forma integral en el ciclo de vida del software: arquitectura, diseño de APIs, frontend e integración de sistemas. Acompaño el desarrollo de cada solución desde la definición técnica hasta su implementación y despliegue en producción. 
 
-**Fortalezas:**
-- **Backend:** APIs REST, modelado, reglas de negocio, seguridad (auth/roles), optimización SQL.
-- **Frontend:** SPAs, diseño responsivo, componentes reutilizables, estados de carga/errores claros.
-- **UX / Producto:** interfaces predecibles, jerarquía visual, accesibilidad básica y flujos sin fricción.
-
+Tengo experiencia construyendo Puntos de Venta (POS), aplicaciones móviles, plataformas de gestión y soluciones a medida, priorizando siempre el rendimiento, la claridad del código y una experiencia de usuario (UX) sin fricciones.
 
 ---
 
-## Proyectos en producción 
+## Proyectos Destacados
 
-### MERM X — Sitio / plataforma
-**URL:** https://mermx.org/Inicio  
-**Participación:** desarrollo frontend (UI/maquetación) e integración con flujo de navegación y secciones.  
-**Enfoque UX:** estructura de contenido clara, consistencia visual, diseño responsivo y performance percibida.
+Puedes explorar la documentación, repositorios y demos de todos mis proyectos en mi **[Portafolio Web](https://portfolio-jm.vercel.app/)**.
+
+### Sistema POS + Landing Page para Veterinaria
+Ecosistema full-stack veterinario orquestado con Docker Compose.
+- **Stack:** `.NET 9`, `ASP.NET Core Web API`, `Entity Framework Core 9`, `Angular 19`, `Astro`, `SQL Server`
+
+### Sistema Gestor de Tickets para Incidencias (SGTI)
+Plataforma integral para centralizar incidencias, gestionar SLAs y coordinar equipos técnicos con trazabilidad en tiempo real.
+- **Stack:** `.NET 10`, `React`, `TypeScript`, `SQL Server`
+
+### Analizador Inteligente de Compras Familiares con IA
+Plataforma full-stack con Ciencia de Datos para analizar precios, perfilar hogares y recomendar estrategias de ahorro mensual.
+- **Stack:** `Python`, `FastAPI`, `Pandas`, `Scikit-learn`
+
+### MERM: Sistema Integral Administrativo
+Plataforma colaborativa con panel administrativo interno y sitio web público en producción para gestionar eventos, membresías y donativos.
+- **Stack:** `Node.js`, `Express`, `TypeScript`, `MongoDB` 
 
 ---
 
-### Sonora Global 
-**URL:** https://sonoraglobal.org/  
-**Participación:** apoyo en desarrollo web (UI + ajustes de experiencia), estructura y secciones orientadas a comunicación.  
-**Enfoque UX:** legibilidad, jerarquía tipográfica, llamadas a la acción (CTAs) y navegación simple.
+## Stack Tecnológico
 
----
-
-### Landing de videojuego
-**URL:** https://sistemaventa.website/  
-**Participación:** construcción de landing con enfoque en conversión (secciones, narrativa, layout, responsive).  
-**Enfoque UX:** scroll fluido, estructura “beneficio → evidencia → CTA”, consistencia de estilos.
-
----
-
-## Stack
-**Backend:** C#, .NET / ASP.NET Core, REST, arquitectura limpia (capas), validaciones, SQL Server  
-**Frontend:** Angular, React, TypeScript/JavaScript, Tailwind CSS  
-**Datos:** SQL Server, MongoDB  
-**Herramientas:** Git/GitHub, Docker, Postman
+| Área | Tecnologías |
+| :--- | :--- |
+| **Backend & APIs** | C# (.NET, ASP.NET), Python (FastAPI, Flask), Node.js (Express, NestJS), PHP (Laravel) |
+| **Frontend** | React, Angular, Astro, Vue, TypeScript, JavaScript, Tailwind CSS, SCSS, Bootstrap |
+| **Mobile & IoT** | Flutter, React Native, Unity, Arduino, ESP32 |
+| **Base de Datos** | SQL Server, PostgreSQL, MySQL, MongoDB, Firebase, Prisma |
+| **DevOps & Infraestructura** | Docker, Kubernetes, AWS, DigitalOcean, Jenkins, Linux (Arch), Redes |
 
 ---
 
 ## Certificaciones
-- Ingeniería en Desarrollo de Software Multiplataforma 
-- Certificaciones: Angular (2026), Git (2025), C# (2025)
+
+- **Bootcamp de DevOps con Azure** *(Código Facilito)* — Azure SQL, Azure DevOps, GitHub Actions.
+- **Curso de Angular: De cero a experto** *(Udemy)* — Angular, TypeScript, Web API, Docker.
+- **Curso de .NET C# práctico - Backend** *(Udemy)* — .NET Framework, ASP.NET Core, JWT.
+- **Certificado Hacking Ético** *(Academia Hacking Online)* — Seguridad y prevención.
+- **Linux Unhatched & CCNAv7** *(Cisco Networking Academy)* — Fundamentos de Linux y Redes.
 
 ---
 
-## Contacto
-- LinkedIn: https://www.linkedin.com/in/jos%C3%A9-mois%C3%A9s-mart%C3%ADnez-lara-01148b2b4/
-- Email: j.moises.mtzl@gmail.com
-
+<div align="center">
+  <b>Actualmente disponible para trabajar en roles Full-Stack, proyectos freelance o colaboraciones remotas.</b><br><br>
+  
+  <a href="mailto:j.moises.mtzl@gmail.com">
+    <img alt="Contacto" src="https://img.shields.io/badge/Contactar_por_Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</div>
