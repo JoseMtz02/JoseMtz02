@@ -2,12 +2,9 @@
 
 <p align="center">
   <a href="https://portfolio-jm.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/fullbanner.png" alt="José Martínez - Full Stack Developer" width="100%"/>
+    <img src="./assets/fullbanner.png" alt="Banner profesional de José Martínez" width="100%"/>
   </a>
 </p>
-
-<h1 align="center">José Martínez</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
   <b>Construyo soluciones full-stack estables y escalables: desde la arquitectura técnica hasta la experiencia de usuario.</b>
