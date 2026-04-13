@@ -50,8 +50,8 @@ He construido puntos de venta (POS), plataformas de gestión institucional y sol
 
 <a href="https://github.com/JoseMtz02" target="_blank" rel="noopener noreferrer">
   <img
-    alt="Resumen de perfil de GitHub"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseMtz02&theme=github_dark"
+    alt="Panel de actividad profesional"
+    src="./assets/metrics.base.svg"
   />
 </a>
 
@@ -60,14 +60,8 @@ He construido puntos de venta (POS), plataformas de gestión institucional y sol
 <p align="center">
   <a href="https://github.com/JoseMtz02" target="_blank" rel="noopener noreferrer">
     <img
-      alt="Repositorios por lenguaje"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseMtz02&theme=github_dark"
-    />
-  </a>
-  <a href="https://github.com/JoseMtz02" target="_blank" rel="noopener noreferrer">
-    <img
-      alt="Lenguaje con más commits"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseMtz02&theme=github_dark"
+      alt="Distribución de lenguajes"
+      src="./assets/metrics.languages.svg"
     />
   </a>
 </p>
@@ -79,6 +73,8 @@ He construido puntos de venta (POS), plataformas de gestión institucional y sol
   <img alt="Último commit" src="https://img.shields.io/github/last-commit/JoseMtz02/JoseMtz02?style=for-the-badge&logo=github&label=Ultimo%20commit" />
   <img alt="Actividad mensual" src="https://img.shields.io/github/commit-activity/m/JoseMtz02/JoseMtz02?style=for-the-badge&label=Actividad%20mensual" />
 </p>
+
+<sub>Las tarjetas SVG se generan automáticamente con GitHub Actions y se publican desde este repositorio para un render más estable.</sub>
 
 </div>
 
