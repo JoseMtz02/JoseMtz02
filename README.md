@@ -16,17 +16,6 @@
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
 </div>
 
 ---
@@ -54,21 +43,31 @@ Plataforma integral para centralizar incidencias, gestionar SLAs y coordinar equ
 Plataforma full-stack con Ciencia de Datos para analizar precios, perfilar hogares y recomendar estrategias de ahorro mensual.
 - **Stack:** `Python`, `FastAPI`, `Pandas`, `Scikit-learn`
 
-### MERM: Sistema Integral Administrativo
-Plataforma colaborativa con panel administrativo interno y sitio web público en producción para gestionar eventos, membresías y donativos.
-- **Stack:** `Node.js`, `Express`, `TypeScript`, `MongoDB` 
-
 ---
 
 ## Stack Tecnológico
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Backend & APIs** | C# (.NET, ASP.NET), Python (FastAPI, Flask), Node.js (Express, NestJS), PHP (Laravel) |
-| **Frontend** | React, Angular, Astro, Vue, TypeScript, JavaScript, Tailwind CSS, SCSS, Bootstrap |
-| **Mobile & IoT** | Flutter, React Native, Unity, Arduino, ESP32 |
-| **Base de Datos** | SQL Server, PostgreSQL, MySQL, MongoDB, Firebase, Prisma |
-| **DevOps & Infraestructura** | Docker, Kubernetes, AWS, DigitalOcean, Jenkins, Linux (Arch), Redes |
+### Backend & APIs
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+
+### Frontend & Mobile
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /> <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+
+### Bases de Datos & Infraestructura
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+
+---
+
+## Estadísticas de GitHub
+
+<div align="center">
+  <a href="https://github.com/JoseMtz02" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseMtz02&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555" alt="Estadísticas de JoseMtz02" />
+  </a>
+  <a href="https://github.com/JoseMtz02" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMtz02&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=555" alt="Lenguajes más usados por JoseMtz02" />
+  </a>
+</div>
 
 ---
 
@@ -85,7 +84,7 @@ Plataforma colaborativa con panel administrativo interno y sitio web público en
 <div align="center">
   <b>Actualmente disponible para trabajar en roles Full-Stack, proyectos freelance o colaboraciones remotas.</b><br><br>
   
-  <a href="mailto:j.moises.mtzl@gmail.com">
+  <a href="mailto:j.moises.mtzl@gmail.com" target="_blank">
     <img alt="Contacto" src="https://img.shields.io/badge/Contactar_por_Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </div>
