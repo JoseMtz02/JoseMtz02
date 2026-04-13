@@ -10,6 +10,14 @@
   <b>Construyo soluciones full-stack estables y escalables: desde la arquitectura técnica hasta la experiencia de usuario.</b>
 </p>
 
+<p align="center">
+  <img alt="Arquitectura" src="https://img.shields.io/badge/Arquitectura_de_software-111827?style=flat-square" />
+  <img alt="Backend" src="https://img.shields.io/badge/Backend_APIs-0A66C2?style=flat-square" />
+  <img alt="Frontend" src="https://img.shields.io/badge/Frontend_UX-1F2937?style=flat-square" />
+  <img alt="Data" src="https://img.shields.io/badge/Data_Engineering-374151?style=flat-square" />
+  <img alt="DevOps" src="https://img.shields.io/badge/DevOps-4B5563?style=flat-square" />
+</p>
+
 <br/>
 
 <p align="center">
@@ -38,9 +46,15 @@
 
 ## Perfil profesional
 
-Me involucro de forma integral en el ciclo de vida del software: **arquitectura, diseño de APIs, frontend e integración de sistemas**.
+Diseño y desarrollo soluciones de software de extremo a extremo: desde el modelado técnico hasta la experiencia de usuario y la puesta en operación.
 
-He construido puntos de venta (POS), plataformas de gestión institucional y soluciones a medida con integración de Ciencia de Datos e IoT. Me enfoco en entregar productos mantenibles, medibles y con enfoque en resultados.
+He construido sistemas POS, plataformas institucionales y productos con componentes de Data e IoT, priorizando mantenibilidad, trazabilidad y resultados de negocio.
+
+**Enfoque de trabajo**
+
+- Arquitectura y diseño de APIs orientadas a escalabilidad.
+- Desarrollo full-stack con estándares de calidad y clean code.
+- Integración de datos, automatización y entrega continua.
 
 ---
 
@@ -74,8 +88,6 @@ He construido puntos de venta (POS), plataformas de gestión institucional y sol
   <img alt="Actividad mensual" src="https://img.shields.io/github/commit-activity/m/JoseMtz02/JoseMtz02?style=for-the-badge&label=Actividad%20mensual" />
 </p>
 
-<sub>Las tarjetas SVG se generan automáticamente con GitHub Actions y se publican desde este repositorio para un render más estable.</sub>
-
 </div>
 
 ---
@@ -94,21 +106,25 @@ Toda la documentación, arquitecturas y demostraciones están disponibles en mi 
 Ecosistema full-stack diseñado para alta disponibilidad, orquestado mediante contenedores.
 
 - **Stack principal:** `.NET 9` · `ASP.NET Core Web API` · `Entity Framework Core 9` · `Angular 19` · `Astro` · `SQL Server` · `Docker`
+- **Valor entregado:** operación continua, gestión comercial centralizada y despliegue reproducible.
 
 ### Sistema gestor de tickets para incidencias (SGTI)
 Plataforma corporativa para centralizar incidencias, gestionar SLAs y coordinar equipos técnicos con trazabilidad en tiempo real.
 
 - **Stack principal:** `.NET 10` · `React` · `TypeScript` · `SQL Server`
+- **Valor entregado:** mayor visibilidad operativa y mejor control de tiempos de resolución.
 
 ### Analizador inteligente de compras familiares (IA)
 Plataforma apoyada en Ciencia de Datos para analizar variaciones de precios, perfilar hogares y recomendar estrategias paramétricas de ahorro mensual.
 
 - **Stack principal:** `Python` · `FastAPI` · `Pandas` · `Scikit-learn`
+- **Valor entregado:** decisiones de compra con enfoque analítico y optimización de gasto.
 
 ### MERM: sistema integral administrativo
 Plataforma colaborativa con panel administrativo de control interno y sitio web público en producción para gestión de membresías y donativos.
 
 - **Stack principal:** `Node.js` · `Express` · `TypeScript` · `MongoDB`
+- **Valor entregado:** digitalización de procesos administrativos y mejor experiencia para usuarios finales.
 
 ---
 
@@ -157,17 +173,15 @@ Stack orientado a arquitectura limpia, APIs escalables y productos con foco en c
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square" alt="CI/CD" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
-
-<sub>Sección optimizada para el render de GitHub sin tablas HTML complejas, con mejor compatibilidad en móvil y escritorio.</sub>
 
 ---
 
 ## Certificaciones destacadas
 
-- **Bootcamp de DevOps con Azure** (Código Facilito) — Arquitectura Cloud, Azure SQL, GitHub Actions.
+- **Bootcamp de DevOps con Azure** (Código Facilito) — Arquitectura Cloud, Azure SQL, CI/CD.
 - **Curso de Angular: de cero a experto** (Udemy) — Desarrollo Frontend avanzado y Web APIs.
 - **Curso de .NET C# práctico: backend** (Udemy) — Arquitectura, ASP.NET Core, autenticación JWT.
 - **Certificado Hacking Ético** (Academia Hacking Online) — Identificación de vulnerabilidades y seguridad defensiva.
@@ -178,6 +192,15 @@ Stack orientado a arquitectura limpia, APIs escalables y productos con foco en c
 <div align="center">
   <b>Disponible para roles Full-Stack, integración a equipos de ingeniería o colaboraciones remotas.</b>
 </div>
+
+<p align="center">
+  <a href="https://portfolio-jm.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img alt="Ver portafolio completo" src="https://img.shields.io/badge/Ver_portafolio_completo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-mois%C3%A9s-mart%C3%ADnez-lara-01148b2b4/" target="_blank" rel="noopener noreferrer">
+    <img alt="Conectar en LinkedIn" src="https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
   <img
